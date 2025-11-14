@@ -1,0 +1,1 @@
+Imagino que em um aplicativo que calcule rotas para um certo lugar (como o Waze) seja necessário calcular várias possibilidades de ruas que podem ser seguidas, então uma paralelização desses cálculos seria essencial, especialmente num contexto de alto risco que é o de direção. 
