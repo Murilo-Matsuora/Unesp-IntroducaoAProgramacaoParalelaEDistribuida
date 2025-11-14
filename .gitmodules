@@ -1,0 +1,6 @@
+[submodule "Projeto/Projeto/IPPD-Trabalho"]
+	path = Projeto/Projeto/IPPD-Trabalho
+	url = https://github.com/guihi1/IPPD-Trabalho.git
+[submodule "Projeto/IPPD-Trabalho"]
+	path = Projeto/IPPD-Trabalho
+	url = https://github.com/guihi1/IPPD-Trabalho.git
